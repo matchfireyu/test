@@ -7,7 +7,7 @@ public class TestStr {
     }
 
     private static void testPass() {
-        Person zs = new Person("张三");
+        Person zs = new Person("张三2");
         Person ls = new Person("李四");
         testPassPerson(zs, ls);
         System.out.println("zs2:" + zs.getName());
